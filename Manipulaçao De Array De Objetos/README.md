@@ -1,6 +1,6 @@
 ## MultArray
 
-Agora iremos trabalhar com um array bem dinamico, lembrando que esse tipo de array, não cairá no Retake, ele é de uma complexidade bem maior
+Agora iremos trabalhar com um array bem dinâmico, lembrando que essa categoria de array, não cairá no Retake, ele é de uma complexidade bem maior
 
 ```javaScript
 let objetoComplexo = [
@@ -56,7 +56,7 @@ let objetoComplexo = [
 objetoComplexo[0].nome // retornaria para mim jardel
 objetoComplexo[0].cursos // retornaria para mim, outro objeto contendo dois cursos(duas chaves), javaScript e HTML que são novamente arrays de objetos
 ```
-agora tente pegar na mão dois valores para mim:
+agora tente pegar dois valores na mão para mim:
 
 * sobre de uxui
 * usabilidade do python
@@ -87,4 +87,4 @@ agora tente você pegar esses valores:
 
 ### Agora é com você
 
-Fizemos alguns testes, agora é com você o item é bem grande, que tal brincar um pouco? o que tanto a tecnologia deixa você fazer? e até onde você é permitido ir? quao dinamico isso pode ficar? ou quão na mão poderiamos fazer?
+Fizemos alguns testes, agora é com você o item é bem grande, que tal brincar um pouco? O que tanto a tecnologia deixa você fazer? E até onde você é permitido ir? Quão dinâmico isso pode ficar? Ou quão na mão poderíamos fazer?
