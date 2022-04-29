@@ -3,7 +3,7 @@
 
 Modele uma classe chamada **Musica** que recebe no constructor essas propriedades:
 
-* nome - tipo Sring
+* nome - tipo String
 * duracao - tipo Number - Sempre será em segundos, ou seja 1 minuto é igual a 60 segundos
 
 Além delas adicione essa propriedade predefinida:
@@ -27,4 +27,4 @@ Crie um método chamado **adicionarMusica** que recebe por parâmetro:
 
 * musica - Tipo Objeto, instancia da classe Musica
 
-Por fim, esse método deve adicionar a musica ao alum do artista. E retornar: "Musica adicionada"
+Por fim, esse método deve adicionar a música ao alum do artista. E retornar: "Música adicionada"

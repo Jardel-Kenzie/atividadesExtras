@@ -1,9 +1,9 @@
 
 ### Classe Estoque
 
-Modele uma classe chamada **Estoque** na qual será estatica, ou seja, não possui constructor, apenas métodos ou propriedades estaticas. Dito isso criei essa propriedade:
+Modele uma classe chamada **Estoque** na qual será estática, ou seja, não possui constructor, apenas métodos ou propriedades estáticas. Dito isso criei essa propriedade:
 
-* controleEstoque = Tipo array - iniciado com esse arrau de objetos:
+* controleEstoque = Tipo array - iniciado com esse array de objetos:
 
 ```javaScript
 [
@@ -15,7 +15,7 @@ Modele uma classe chamada **Estoque** na qual será estatica, ou seja, não poss
 Fique a vontade para aumentar esse array seguindo sempre esses pontos:
 
 * produto - Tipo String - Referente ao nome do produto
-* precos - Tipo Objeto - sempre terá as chamas promocao e normal:
+* precos - Tipo Objeto - sempre terá as chaves promocao e normal:
     * promocao - Tipo Number - Referente ao preço do produto em promoção
     * normal - Tipo Number - Referente ao preço do produto quando não está em promoção
 * emPromocao - Tipo Boleano - Referente a se o produto está ou não em promoção
@@ -40,7 +40,7 @@ Além delas adicione essa propriedade predefinida:
 
 ### Método comprarProduto
 
-Crie um método chamado **comprarProduto** na qual recebe por parãmetro o nome do produto na qual quer fazer a compra, dito isso esse método deve fazer o seguinte:
+Crie um método chamado **comprarProduto** na qual recebe por parâmetro o nome do produto no qual quer fazer a compra, dito isso esse método deve fazer o seguinte:
 
 * Verificar se esse produto existe no **controleEstoque** da classe **Estoque**
 * Caso exista deverá verificar se o produto está ou não em promoção
